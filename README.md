@@ -8,6 +8,7 @@
 ✅ **AI-Powered Resume Builder** – Uses Gemini API for deep insights  
 ✅ **Secure Authentication** – Implemented with **Clerk**  
 ✅ **Real-Time Industry Insights** – Managed via **Gemini API**
+
 ✅ **AI Powered Cover Letter Gnerator** – Only Enter job Role*One click enough*
 
 ✅ **AI-Powered Interview** – Uses Gemini API for deep insights & and find your error give suggestion   
